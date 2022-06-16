@@ -1,0 +1,135 @@
+SlideID,sampleid,REDcapID,Response,Treatment,Status,AgeAtCollection,Gender,AnatomicSite,Tl,ASl,Sl,Rl,tumor_area
+M104_1,72,72,Non-Responder,Pembrolizumab,Deceased,62,Female,"Skin_soft-tissue,1",0,2,0,0,0.753916139
+M52_1,41,36,Non-Responder,Nivolumab,Deceased,39,Male,"Lymph-node,1",0,1,0,0,0.816380982
+M90_1,59,62,Non-Responder,Pembrolizumab,Deceased,70,Male,"Skin_soft-tissue,1",0,2,0,0,0.862042718
+M28_1,22,13,Responder,Ipilimumab + nivolumab,Alive,46,Male,"Skin_soft-tissue,1",1,2,1,1,1.052981528
+M110_1,77,75,Responder,Pembrolizumab,Alive,73,Female,"Lymph-node,1",0,1,1,1,1.118538767
+M22_7,16,26,Non-Responder,Nivolumab,Deceased,87,Male,"Skin_soft-tissue,1",0,2,0,0,1.45428331
+M48_1,39,24,Responder,Ipilimumab + nivolumab,Alive,48,Male,"Skin_soft-tissue,1",1,2,1,1,1.632225403
+M83_1,52,80,Responder,Nivolumab,Alive,66,Male,"Skin_soft-tissue,1",0,2,1,1,1.817494773
+M105_1,73,73,Non-Responder,Pembrolizumab,Alive,59,Male,"Skin_soft-tissue,1",0,2,1,0,1.934465287
+M91_1,60,1,Responder,Nivolumab,Alive,70,Male,"Skin_soft-tissue,1",0,2,1,1,1.987495986
+M49_1,47,28,Non-Responder,Nivolumab,Deceased,75,Male,"Skin_soft-tissue,1",0,2,0,0,2.160313383
+M86_1,55,23,Responder,Ipilimumab + nivolumab,Alive,40,Male,"Lymph-node,1",1,1,1,1,2.163799569
+M54_1,43,11,Non-Responder,Ipilimumab + nivolumab,Deceased,64,Female,"Skin_soft-tissue,1",1,2,0,0,2.473945312
+M21_1,15,6,Non-Responder,Ipilimumab + nivolumab,Deceased,38,Female,"Lymph-node,1",1,1,0,0,2.530914877
+M1_1,1,3,Non-Responder,Ipilimumab + nivolumab,Deceased,13,Female,"Skin_soft-tissue,1",1,2,0,0,2.597190445
+M57_1,46,40,Non-Responder,Nivolumab,Alive,63,Male,"Skin_soft-tissue,1",0,2,1,0,2.666873533
+M81_1,50,34,Non-Responder,Pembrolizumab,Alive,82,Male,"Skin_soft-tissue,1",0,2,1,0,2.680841212
+M34_1,26,45,Responder,Nivolumab,Alive,83,Male,"Lymph-node,1",0,1,1,1,3.088463584
+M84_1,53,63,Non-Responder,Nivolumab,Deceased,58,Female,"Viscera,1",0,3,0,0,3.888604524
+M103_1,71,71,Non-Responder,Pembrolizumab,Unknown,71,Male,"Skin_soft-tissue,1",0,2,0,0,5.029072762
+M80_1,49,30,Non-Responder,Nivolumab,Deceased,71,Male,"Brain,1",0,5,0,0,5.099151317
+M109_1,76,74,Responder,Pembrolizumab,Alive,51,Female,"Skin_soft-tissue,1",0,2,1,1,5.468186553
+M106_1,74,65,Non-Responder,Ipilimumab + nivolumab,Deceased,81,Female,"Mucosal,1",1,4,0,0,6.869097327
+M35_1,27,8,Non-Responder,Pembrolizumab,Deceased,60,Female,"Skin_soft-tissue,1",0,2,0,0,7.692992241
+M42_1,34,57,Responder,Nivolumab,Alive,74,Female,"Skin_soft-tissue,1",0,2,1,1,7.961024651
+M9_1,7,12,Responder,Ipilimumab + nivolumab,Alive,64,Female,"Skin_soft-tissue,1",1,2,1,1,8.551601903
+M38_1,30,25,Responder,Ipilimumab + nivolumab,Alive,59,Female,"Skin_soft-tissue,1",1,2,1,1,10.422058
+M23_1,17,47,Responder,Nivolumab,Alive,61,Male,"Skin_soft-tissue,1",0,2,1,1,12.24343943
+M25_1,19,22,Responder,Ipilimumab + nivolumab,Alive,63,Female,"Lymph-node,1",1,1,1,1,12.34269984
+M32_1,25,51,Responder,Pembrolizumab,Deceased,68,Female,"Skin_soft-tissue,1",0,2,0,1,13.08078932
+M43_1,35,58,Responder,Pembrolizumab,Alive,53,Male,"Skin_soft-tissue,1",0,2,1,1,13.20921184
+M53_1,42,52,Responder,Nivolumab,Alive,76,Male,"Skin_soft-tissue,1",0,2,1,1,13.66745487
+M47_1,38,20,Responder,Ipilimumab + nivolumab,Alive,38,Female,"Skin_soft-tissue,1",1,2,1,1,14.31948269
+M31_1,24,44,Responder,Pembrolizumab,Alive,67,Male,"Brain,1",0,5,1,1,14.52261161
+M6_1,5,16,Responder,Ipilimumab + nivolumab,Deceased,48,Male,"Skin_soft-tissue,1",1,2,0,1,14.96364261
+M79_1,48,78,Responder,Pembrolizumab,Alive,73,Male,"Skin_soft-tissue,1",0,2,1,1,15.12925523
+M37_1,29,55,Responder,Pembrolizumab,Alive,63,Female,"Skin_soft-tissue,1",0,2,1,1,17.73902995
+M44_1,36,38,Non-Responder,Pembrolizumab,Alive,83,Female,"Lymph-node,1",0,1,1,0,19.37618023
+M88_1,57,15,Responder,Ipilimumab + nivolumab,Alive,64,Male,"Skin_soft-tissue,1",1,2,1,1,23.20042923
+M27_5,21,19,Responder,Ipilimumab + nivolumab,Alive,71,Male,"Skin_soft-tissue,1",1,2,1,1,24.73942007
+M11_1,9,29,Non-Responder,Nivolumab,Alive,67,Male,"Viscera,1",0,3,1,0,27.23779995
+M24_1,18,49,Responder,Nivolumab,Alive,49,Male,"Viscera,1",0,3,1,1,27.97989174
+M29_1,23,7,Non-Responder,Ipilimumab + nivolumab,Deceased,57,Female,"Skin_soft-tissue,1",1,2,0,0,28.6510082
+M101_1,69,66,Responder,Ipilimumab + nivolumab,Alive,51,Female,"Skin_soft-tissue,1",1,2,1,1,30.60674019
+M12_1,10,50,Responder,Pembrolizumab,Alive,69,Male,"Skin_soft-tissue,1",0,2,1,1,30.92912944
+M26_1,20,54,Responder,Pembrolizumab,Alive,92,Male,"Lymph-node,1",0,1,1,1,35.96123143
+M89_1,58,17,Responder,Ipilimumab + nivolumab,Deceased,55,Female,"Lymph-node,1",1,1,0,1,36.87377094
+M112_1,79,77,Responder,Pembrolizumab,Alive,75,Female,"Skin_soft-tissue,1",0,2,1,1,36.93608664
+M94_1,63,81,Non-Responder,Nivolumab,Alive,67,Female,"Skin_soft-tissue,1",0,2,1,0,38.11002744
+M2_3,2,43,Responder,Pembrolizumab,Deceased,64,Female,"Skin_soft-tissue,1",0,2,0,1,39.76870495
+M96_1,65,83,Non-Responder,Nivolumab,Alive,68,Female,"Skin_soft-tissue,1",0,2,1,0,40.35792363
+M16_1,12,21,Responder,Ipilimumab + nivolumab,Alive,68,Male,"Viscera,1",1,3,1,1,40.69766079
+M45_1,37,37,Non-Responder,Pembrolizumab,Alive,67,Female,"Mucosal,1",0,4,1,0,42.72483143
+M87_1,56,18,Responder,Ipilimumab + nivolumab,Deceased,72,Male,"Skin_soft-tissue,1",1,2,0,1,50.61792843
+M36_1,28,9,Non-Responder,Ipilimumab + nivolumab,Deceased,66,Male,"Mucosal,1",1,4,0,0,51.30055354
+M4_2,4,41,Responder,Nivolumab,Alive,74,Female,"Skin_soft-tissue,1",0,2,1,1,55.07972289
+M98_1,67,70,Non-Responder,Nivolumab,Alive,63,Male,"Skin_soft-tissue,1",0,2,1,0,62.41260657
+M10_2,8,46,Responder,Nivolumab,Alive,80,Male,"Skin_soft-tissue,1",0,2,1,1,72.76899797
+M85_1,54,61,Non-Responder,Pembrolizumab,Alive,92,Female,"Mucosal,1",0,4,1,0,76.1079822
+M99_1,68,64,Non-Responder,Ipilimumab + nivolumab,Deceased,35,Female,"Mucosal,1",1,4,0,0,78.08355557
+M39_1,31,33,Non-Responder,Pembrolizumab,Deceased,76,Male,"Lymph-node,1",0,1,0,0,87.6018735
+M93_1,62,68,Responder,Ipilimumab + nivolumab,Alive,50,Male,"Skin_soft-tissue,1",1,2,1,1,92.90401365
+M95_1,64,82,Non-Responder,Pembrolizumab,Deceased,33,Male,"Skin_soft-tissue,1",0,2,0,0,100.5624103
+M17_1,13,14,Responder,Ipilimumab + nivolumab,Alive,57,Male,"Mucosal,1",1,4,1,1,110.733902
+M82_1,51,79,Responder,Ipilimumab + nivolumab,Alive,73,Female,"Mucosal,1",1,4,1,1,118.7755616
+M51_1,40,35,Non-Responder,Pembrolizumab,Deceased,91,Female,"Lymph-node,1",0,1,0,0,163.2645001
+M41_1,33,56,Responder,Pembrolizumab,Alive,82,Male,"Skin_soft-tissue,1",0,2,1,1,176.0861922
+M3_1,3,42,Responder,Pembrolizumab,Alive,59,Male,"Lymph-node,1",0,1,1,1,195.8957149
+M97_1,66,31,Non-Responder,Nivolumab,Deceased,50,Male,"Lymph-node,1",0,1,0,0,197.4011343
+M7_2,6,4,Non-Responder,Ipilimumab + nivolumab,Deceased,78,Male,"Skin_soft-tissue,1",1,2,0,0,199.3530376
+M111_1,78,76,Non-Responder,Nivolumab,Alive,54,Female,"Lymph-node,1",0,1,1,0,291.4656639
+M55_1,44,48,Responder,Nivolumab,Deceased,53,Female,"Lymph-node,1",0,1,0,1,300.4484211
+M19_1,14,53,Responder,Pembrolizumab,Alive,76,Male,"Viscera,1",0,3,1,1,307.7525726
+M116,284,85,Non-Responder,Ipilimumab + nivolumab,Alive,72,Male,MET,0,1,0,1,16.96879001
+M117,285,86,Responder,Pembrolizumab,Alive,67,Female,MET,1,0,0,1,15.58535636
+M118,286,87,Non-Responder,Ipilimumab + nivolumab,Alive,60,Female,MET,0,1,0,1,8.89486387
+M120,287,88,Responder,Nivolumab,Alive,78,Male,CUTANEOUS PRIMARY,1,0,0,1,1.249534163
+M123,288,89,Responder,Nivolumab,Deceased,65,Male,MET,1,0,0,0,2.068955803
+M124,289,90,Responder,Pembrolizumab,Alive,55,Male,MET,1,0,0,1,10.94345777
+M127,290,91,Responder,Nivolumab,Alive,63,Male,Lymph-node,1,0,0,1,82.21181095
+M128_Restain,291,92,Responder,Nivolumab,Alive,44,Male,MET,1,0,0,1,22.86239614
+M129_Restain,292,93,Responder,Ipilimumab + nivolumab,Alive,76,Male,Lymph-node,1,1,0,1,101.280981
+M130_Restain,293,94,Responder,Ipilimumab + nivolumab,Alive,52,Female,MET,1,1,0,1,1.116818175
+M132_Restain,294,95,Non-Responder,Ipilimumab + nivolumab,Deceased,74,Male,MET,0,1,0,0,78.22953985
+M133_Restain,295,96,Non-Responder,Ipilimumab + nivolumab,Deceased,28,Female,MET,0,1,0,0,11.61451473
+M134_Restain,296,97,Responder,Ipilimumab + nivolumab,Alive,51,Male,MET,1,1,0,1,23.89417706
+M135_Restain,297,98,Non-Responder,Pembrolizumab,Deceased,69,Male,MET,0,0,0,0,0.451492594
+M136_Restain,298,99,Responder,Nivolumab,Deceased,60,Male,MET,1,0,0,0,44.10431978
+M137_Restain,299,100,Responder,Pembrolizumab,Alive,65,Male,MET,1,0,0,1,0.164581844
+M138_Restain,300,101,Non-Responder,Pembrolizumab,Deceased,75,Female,MET,0,0,0,0,236.7572687
+M139_Restain,301,102,Non-Responder,Nivolumab,Deceased,69,Male,MET,0,0,0,0,5.841230566
+M140_Restain,302,103,Non-Responder,Ipilimumab + nivolumab,Deceased,61,Female,CUTANEOUS PRIMARY,0,1,0,0,7.431285792
+M141,303,104,Non-Responder,Ipilimumab + nivolumab,Deceased,77,Female,Lymph-node,0,1,0,0,176.7631216
+M142,304,105,Responder,Ipilimumab + nivolumab,Alive,38,Female,Lymph-node,1,1,0,1,46.52938997
+M143,305,106,Responder,Pembrolizumab,Alive,73,Male,MET,1,0,0,1,18.13349751
+M144,306,107,Responder,Ipilimumab + nivolumab,Alive,58,Male,MET,1,1,0,1,1.113388779
+M145,307,108,Responder,Pembrolizumab,Deceased,59,Male,MET,1,0,0,0,17.04073165
+M146,308,109,Non-Responder,Nivolumab,Alive,48,Female,MET,0,0,0,1,1.872608918
+M149,310,111,Responder,Ipilimumab + nivolumab,Alive,68,Male,Lymph-node,1,1,0,1,55.47263447
+M150,311,112,Non-Responder,Pembrolizumab,Alive,88,Male,CUTANEOUS PRIMARY,0,0,0,1,21.08822062
+M151,312,113,Non-Responder,Pembrolizumab,Deceased,86,Female,MET,0,0,0,0,54.39187617
+M153,314,115,Non-Responder,Nivolumab,Deceased,50,Male,MET,0,0,0,0,136.2122213
+M167,315,116,Non-Responder,Pembrolizumab,Alive,82,Male,MUCOSAL PRIMARY,0,0,0,1,0.44118779
+M170,317,118,Responder,Ipilimumab + nivolumab,Alive,55,Male,MET,1,1,0,1,1.91689021
+M171,318,119,Responder,Ipilimumab + nivolumab,Alive,49,Female,MET,1,1,0,1,4.739002309
+M173,320,121,Responder,Ipilimumab + nivolumab,Alive,72,Male,MET,1,1,0,1,1.027953681
+M174,321,122,Responder,Ipilimumab + nivolumab,Alive,69,Male,CUTANEOUS PRIMARY,1,1,0,1,0.637260838
+M175,322,123,Responder,Ipilimumab + nivolumab,Alive,75,Female,CUTANEOUS PRIMARY,1,1,0,1,0.654280461
+M178,325,126,Non-Responder,Ipilimumab + nivolumab,Deceased,60,Male,MET,0,1,0,0,77.64460041
+M180,326,127,Responder,Pembrolizumab,Alive,41,Female,MET,1,0,0,1,2.696636009
+M181,327,128,Responder,Ipilimumab + nivolumab,Alive,56,Female,Lymph-node,1,1,0,1,26.21097929
+M184,328,129,Responder,Ipilimumab + nivolumab,Alive,62,Female,MET,1,1,0,1,12.96062343
+M185,329,130,Responder,Pembrolizumab,Alive,64,Female,MET,1,0,0,1,23.01541931
+M186,330,131,Responder,Pembrolizumab,Alive,30,Female,Lymph-node,1,0,0,1,1.940781322
+M188,332,133,Non-Responder,Pembrolizumab,Alive,74,Male,MET,0,0,0,1,20.98004933
+M189,333,134,Responder,Pembrolizumab,Alive,40,Female,MET,1,0,0,1,9.191548926
+M190,334,135,Non-Responder,Nivolumab,Deceased,67,Male,CUTANEOUS PRIMARY,0,0,0,0,4.339473427
+M191,335,136,Responder,Pembrolizumab,Alive,73,Male,MET,1,0,0,1,0.32954704
+M192,336,137,Responder,Pembrolizumab,Alive,62,Male,MET,1,0,0,1,1.190378727
+M196,338,139,Non-Responder,Nivolumab,Deceased,16,Male,MET,0,0,0,0,44.186428
+M199,341,142,Non-Responder,Pembrolizumab,Deceased,72,Female,Lymph-node,0,0,0,0,48.83653271
+M201,343,144,Responder,Pembrolizumab,Alive,52,Male,MET,1,0,0,1,19.68120158
+M202,344,145,Responder,Nivolumab,Deceased,69,Female,MET,1,0,0,0,12.90900749
+M203,345,146,Non-Responder,Ipilimumab + nivolumab,Deceased,59,Male,Lymph-node,0,1,0,0,61.50119943
+M206,348,149,Responder,Ipilimumab + nivolumab,Alive,55,Male,MET,1,1,0,1,0.224847181
+M208,350,151,Responder,Ipilimumab + nivolumab,Alive,52,Male,Lymph-node,1,1,0,1,6.170171203
+M210,352,153,Responder,Pembrolizumab,Alive,71,Female,Lymph-node,1,0,0,1,26.92879825
+M213,355,156,Responder,Pembrolizumab,Alive,85,Male,MET,1,0,0,1,16.28325341
+M217,359,160,Responder,Nivolumab,Alive,34,Male,Lymph-node,1,0,0,1,172.4994402
+M220,362,163,Responder,Pembrolizumab,Alive,63,Male,MET,1,0,0,1,83.56738404
+M221,363,164,Non-Responder,Pembrolizumab,Deceased,66,Male,MET,0,0,0,0,3.895342019
+M224,366,167,Responder,Ipilimumab + nivolumab,Alive,58,Male,MET,1,1,0,1,5.284043163
+M230,369,170,Non-Responder,Pembrolizumab,Deceased,48,Male,MET,0,0,0,0,3.109826446
+M231,370,171,Responder,Ipilimumab + nivolumab,Alive,43,Female,MET,1,1,0,1,2.24493451
